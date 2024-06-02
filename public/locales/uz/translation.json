@@ -1,0 +1,15 @@
+{
+  "title": "AliExpress",
+  "navbar-collection": {
+    "catolog": "Katalog",
+    "search-input": "Qidiruv",
+    "search-btn": "Toping",
+    "order": "Buyurtmalar",
+    "cart": "Savat",
+    "login": "Kirish"
+  },
+  "adv-collection": {
+    "1": "Qizil narxlar oyi",
+    "2": "Xitoydan"
+  }
+}

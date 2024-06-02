@@ -1,0 +1,15 @@
+{
+  "title": "AliExpress",
+  "navbar-collection": {
+    "catolog": "Каталог",
+    "search-input": "Поиск",
+    "search-btn": "Найти",
+    "order": "Заказы",
+    "cart": "Корзина",
+    "login": "Войти"
+  },
+  "adv-collection": {
+    "1": "Месяц красных цен",
+    "2": "Из Китая"
+  }
+}

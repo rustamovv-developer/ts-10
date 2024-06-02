@@ -1,0 +1,54 @@
+.footer {
+  padding: 48px 0px;
+  background-color: rgba(34, 34, 34, 0.12);
+  &__wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  &__title {
+    letter-spacing: 0.065px;
+    margin: 0 0 10px 8px;
+    text-transform: uppercase;
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 500;
+  }
+  &__text {
+    margin-bottom: 8px;
+    padding: 8px;
+    border-radius: 6px;
+    background: #f0f4f7;
+    color: #18181b;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  &__bottom {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 22px 0px;
+  }
+  &__card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 350px;
+  }
+  &__h3 {
+    font-size: 15px;
+    line-height: 18px;
+    font-weight: 400;
+  }
+  &__h4 {
+    font-size: 15px;
+    line-height: 18px;
+    font-weight: 400;
+  }
+  &__images {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+}
